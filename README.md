@@ -9,5 +9,5 @@ Mas formalmente:
 - 🌱 I’m currently learning weld, python and automate with AI
 - 🤔 I’m looking for help with find problems for self learning
 - 💬 Ask me about your problems and i can view help you
-- 📫 How to reach me: Gmail (thiagosarlo02@gmail.com
+- 📫 How to reach me: Gmail (thiagosarlo02@gmail.com)
 - ⚡ Fun fact: i like free space
