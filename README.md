@@ -1,6 +1,6 @@
   <h2>¡Hola! me presento soy Thiago.</h2>
-  <br>
-  <h3>  Soy estudiante de una escuela tecnica, enfocado en la tecnicatura de programacion. Me apasiona arreglar computadoras, celulares, tables, etc. Me apasiona en general dar soluciones a problemas ya sea hardware o software. A su vez lo mismo me pasa en el aprendizaje, a la hora de tener objetivos me gusta apuntar a lugares complicados que me fuerzen a investigar, aprender y romperme la cabeza investigando todo para que sea un punto y coma el error.</h3> <br>
+
+  <h3>  Soy estudiante de una escuela tecnica, enfocado en la tecnicatura de programacion. Me apasiona arreglar computadoras, celulares, tables, etc. Me apasiona en general dar soluciones a problemas ya sea hardware o software. A su vez lo mismo me pasa en el aprendizaje, a la hora de tener objetivos me gusta apuntar a lugares complicados que me fuerzen a investigar, aprender y romperme la cabeza investigando todo para que sea un punto y coma el error.</h3>
   <h3>  Un gusto</h3>
   
 Mas formalmente:
