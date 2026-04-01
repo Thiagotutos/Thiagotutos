@@ -11,3 +11,5 @@ Mas formalmente:
 - 💬 Ask me about your problems and i can view help you
 - 📫 How to reach me: Gmail (thiagosarlo02@gmail.com)
 - ⚡ Fun fact: i like free space
+
+my before account is thiaguitosprogramador, i lost the two-step verification and lost the account
