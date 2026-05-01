@@ -34,15 +34,13 @@ Me apasiona el ciclo completo de la tecnología: desde la arquitectura física d
 Aquí puedes ver algunos de los cursos y seminarios que he completado:
 
 <p align="center">
-  <img src="URL_DE_TU_CAPTURA_1" width="45%" alt="Certificado 1" />
-  <img src="URL_DE_TU_CAPTURA_2" width="45%" alt="Certificado 2" />
+  <img width="45%" height="590" alt="image" src="https://github.com/user-attachments/assets/7a499373-c8b3-4f6a-8476-3fd27e5140b0" />
 </p>
-[Certificado Yo puedo programar - Thiago Mauricio Sarli.pdf](https://github.com/user-attachments/files/27265894/Certificado.Yo.puedo.programar.-.Thiago.Mauricio.Sarli.pdf)
 
 
 > [!TIP]
 > **Proyectos en video:** Puedes ver algunos de mis trabajos técnicos y demos aquí:
-> [![Mira mis trabajos en YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](URL_DE_TU_VIDEO_AQUÍ)
+> [![Mira mis trabajos en YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thiaguitospc)
 
 ---
 
