@@ -1,15 +1,56 @@
-  <h2>¡Hola! me presento soy Thiago.</h2>
+# ¡Hola! Soy Thiago Mauricio Sarli 👋
 
-  <h3>  Soy estudiante de una escuela tecnica, enfocado en la tecnicatura de programacion. Me apasiona arreglar computadoras, celulares, tables, etc. Me apasiona en general dar soluciones a problemas ya sea hardware o software. A su vez lo mismo me pasa en el aprendizaje, a la hora de tener objetivos me gusta apuntar a lugares complicados que me fuerzen a investigar, aprender y romperme la cabeza investigando todo para que sea un punto y coma el error.</h3>
-  <h3>  Un gusto</h3>
-  
-Mas formalmente:
+### Técnico en Computación | Desarrollador Python | Especialista en Hardware
 
-- 🔭 I’m currently working on technical
-- 🌱 I’m currently learning weld, python and automate with AI
-- 🤔 I’m looking for help with find problems for self learning
-- 💬 Ask me about your problems and i can view help you
-- 📫 How to reach me: Gmail (thiagosarlo02@gmail.com)
-- ⚡ Fun fact: i like free space
+Me apasiona el ciclo completo de la tecnología: desde la arquitectura física del hardware hasta la lógica del software. Mi enfoque principal es la resolución de problemas complejos, ya sea reviviendo un dispositivo móvil o depurando una base de datos. Me motiva el aprendizaje autodidacta y los desafíos que requieren una investigación profunda.
 
-my before account is thiaguitosprogramador, i lost the two-step verification and lost the account
+---
+
+## 🛠️ Sobre mí
+
+- 🔭 **Actualmente:** Trabajando en proyectos de reparación técnica y mantenimiento de sistemas.
+- 🌱 **Aprendiendo:** Micro-soldadura avanzada, automatización con IA y perfeccionamiento en Python.
+- 💬 **Consúltame sobre:** Diagnóstico de hardware (celulares, laptops, tablets) y lógica de programación.
+- 🎯 **Objetivo:** Enfrentar problemas técnicos que me exijan investigar y romper moldes preestablecidos.
+
+---
+
+## 🚀 Habilidades Técnicas
+
+### 💻 Software & Lenguajes
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔧 Hardware & Reparación
+*   **Micro-electrónica:** Diagnóstico de placas base y micro-soldadura.
+*   **Sistemas:** Instalación y optimización de firmware/OS.
+*   **Reparación Integral:** Smartphones, tablets y computadoras de alto rendimiento.
+
+---
+
+## 📚 Formación y Certificaciones
+Aquí puedes ver algunos de los cursos y seminarios que he completado:
+
+<p align="center">
+  <img src="URL_DE_TU_CAPTURA_1" width="45%" alt="Certificado 1" />
+  <img src="URL_DE_TU_CAPTURA_2" width="45%" alt="Certificado 2" />
+</p>
+[Certificado Yo puedo programar - Thiago Mauricio Sarli.pdf](https://github.com/user-attachments/files/27265894/Certificado.Yo.puedo.programar.-.Thiago.Mauricio.Sarli.pdf)
+
+
+> [!TIP]
+> **Proyectos en video:** Puedes ver algunos de mis trabajos técnicos y demos aquí:
+> [![Mira mis trabajos en YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](URL_DE_TU_VIDEO_AQUÍ)
+
+---
+
+## 📬 Contacto
+*   **Email:** [thiagosarlo02@gmail.com](mailto:thiagosarlo02@gmail.com)
+*   **Ubicación:** Concordia, Entre Ríos, Argentina.
+
+---
+<p align="center">
+  <i>"No es un error, es una oportunidad para investigar hasta el último punto y coma."</i>
+</p>
